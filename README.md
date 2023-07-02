@@ -31,11 +31,11 @@ Metrics
 - MSE for each label
 - AUC-ROC(Area Under the Receiver Operating Characteristic Curve)
 - Confusion Matrix for each label
-- Specificity (true negative rate):
-- Sensitivity (true positive rate or recall)
+- Specificity(true negative rate):
+- Sensitivity(true positive rate or recall)
 - Validation Accuracy for different thresholds
 - F1 Score(harmonic mean of precision and recall)
-- Precision (proportion of true positive predictions out of the total predicted positives)
+- Precision(proportion of true positive predictions out of the total predicted positives)
 - Hamming Loss
-- Jaccard Index (also known as intersection over union)
-- Exact Match (Accuracy Exact Match)
+- Jaccard Index(also known as intersection over union)
+- Exact Match(Accuracy Exact Match)
