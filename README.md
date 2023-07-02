@@ -39,3 +39,12 @@ Metrics
 - Hamming Loss
 - Jaccard Index(also known as intersection over union)
 - Exact Match(Accuracy Exact Match)
+
+Models
+- Custom
+- VGG16
+- Densenet121
+- Resnet50
+
+[Presentation](https://docs.google.com/presentation/d/18sR3KB3gY4Yhe0k80pLE8e4L-01S1Fz5_S2odM_nUeE/edit#slide=id.g256cf2b4612_0_75)
+[Report](https://docs.google.com/document/d/1hezKeDe7nuQUc5aHKRLeVLIDudnaqKnJPTbB35y-12E/edit)
