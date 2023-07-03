@@ -4,21 +4,24 @@
 ChestX-ray14 contains 112,120 X-ray image scans of 30,805 unique individuals.
 
 Labels \
-0. No Finding
-1. Hernia
-2. Emphysema
-3. Nodule
-4. Pneumonia
-5. Consolidation
-6. Cardiomegaly
-7. Effusion
-8. Mass
-9. Pleural_Thickening
-10. Atelectasis
-11. Pneumothorax
-12. Fibrosis
-13. Infiltration
-14. Edema
+<ol start="0">
+  <li>No Finding</li>
+  <li>Hernia</li>
+  <li>Emphysema</li>
+  <li>Nodule</li>
+  <li>Pneumonia</li>
+  <li>Consolidation</li>
+  <li>Cardiomegaly</li>
+  <li>Effusion</li>
+  <li>Mass</li>
+  <li>Pleural_Thickening</li>
+  <li>Atelectasis</li>
+  <li>Pneumothorax</li>
+  <li>Fibrosis</li>
+  <li>Infiltration</li>
+  <li>Edema</li>
+</ol>
+
 
 Each image can have multiple labels.
 
