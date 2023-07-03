@@ -54,8 +54,3 @@ To train models use scripts from Train directory, add selected script *.ipynb fi
 
 ## How to calculate metrics in Google Colab
 Copy selected *.pt file from Models to Models directory on Google Drive, adjust paths in scripts from Metrics directory.
-
-## Documentation [PL]
-
-[Presentation](https://docs.google.com/presentation/d/18sR3KB3gY4Yhe0k80pLE8e4L-01S1Fz5_S2odM_nUeE/edit#slide=id.g256cf2b4612_0_75) \
-[Report](https://docs.google.com/document/d/1hezKeDe7nuQUc5aHKRLeVLIDudnaqKnJPTbB35y-12E/edit)
