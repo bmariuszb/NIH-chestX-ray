@@ -3,7 +3,7 @@
 ## Dataset
 ChestX-ray14 contains 112,120 X-ray image scans of 30,805 unique individuals.
 
-Labels \
+Labels
 <ol start="0">
   <li>No Finding</li>
   <li>Hernia</li>
